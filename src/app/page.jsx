@@ -1,9 +1,13 @@
-import Image from 'next/image'
+import Image from "next/image";
 
 export default function Home() {
-  return(
+  return (
     <main>
-      <dir> Hola Desde Workspace</dir>
+      <body>
+        <nav>
+          <a href="/">Inicio</a>
+        </nav>
+      </body>
     </main>
   );
 }
