@@ -17,6 +17,9 @@ export default function Home() {
           <a className="m-4" href="/">
             Proyectos
           </a>
+          <a className="m-4" href="/">
+            Discord
+          </a>
         </div>
       </nav>
     </main>
